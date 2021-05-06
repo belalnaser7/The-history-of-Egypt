@@ -1,0 +1,175 @@
+
+.hover:hover{
+    color: darkslategrey;
+    border:black;
+    border-style:solid;
+    transition: .5s;
+    border-radius: 9px;
+    padding: 20px;
+    text-transform: uppercase;
+    padding: 5px;
+}
+.imge{
+    width: 100%;
+    height: 100vh;
+}
+.form{
+    MARGIN-TOP: -484px;
+    font-size: 80px;
+    color: wheat;
+    text-align: center;
+}
+span{
+    color: transparent;
+    background: url(new/شلالات.png);
+    -webkit-background-clip:text ;
+    font-size: 150px;
+}
+.slide{
+    MARGIN-TOP: 255px;
+    height: 100vh;
+}
+.ages{
+    
+    width: 100%;
+    background-color: brown;
+}
+
+.gj{
+    font-size: 40px; 
+}
+.gj:hover{
+    animation-name: padd ;
+    animation-duration:2s ;
+    transform: scale(.9);
+}
+@keyframes padd{
+    from{
+        background-color: antiquewhite;
+    }
+    to{
+        background-color: black;
+    }
+    
+}
+.wars{
+    text-align: center;
+    color: darkslategrey;
+    font-size: 60px;
+}
+span1{
+    color: aqua;
+    font-size: 70px;
+}
+.battles{
+    color: brown;
+}
+.war{
+    display: inline-block;
+    font-size: 25px;
+    width: 486px;
+    height: 279px;
+    padding: 22px; 
+    margin-left: 270px;
+    padding-left: 44px;
+   
+}
+.start{
+    display: flex;
+    justify-content: flex-start;
+    width: 357px;
+    height: 500px;
+    margin-block-start: -378px;
+    margin-left: -362px;
+}
+h2.battles.ba {
+    margin-block-start: -74px;
+}
+img.start.uq {
+    height: 300px;
+    margin-block-start: -311px;
+}
+img.start.uq:hover{
+    transform: scale(.9);
+    animation-duration:5s ;
+}
+img.start.lk {
+    height: 300px;
+    margin-block-start: -311px;
+    width: 340px;
+}
+img.start.lk:hover{
+    transform: scale(.9);
+    animation-duration:5s ;
+}
+img.start.jx {
+    height: 300px;
+    margin-block-start: -263px;
+}
+img.start.jx:hover{
+    animation-duration:5s ;
+    transform: scale(.9);
+}
+img.start.aq {
+    height: 300px;
+    margin-block-start: -263px;
+}
+img.start.aq:hover{
+    transform: scale(.9);
+    animation-duration:5s ;
+}
+.pz{
+    font-size:20px ;
+}
+h2.battles.ma{
+    margin-block-start: -20px;
+}
+
+p.omc {
+    text-align: center;
+    font-size: x-large;
+}
+h1.end {
+    text-align: center;
+    margin: 10px;
+}
+.lskj {
+    background-color: grey;
+    height: 250px;
+}
+.social12{
+    text-align: center;
+    margin: 33px;
+}
+.belal{
+    margin: 10px;
+    
+}
+span2{
+    color: brown;
+    font-size: 50px;
+}
+
+i{
+    margin: 20px;
+    font-size: 30px;
+   
+}
+.you{
+    color: red;
+}
+.you:hover{
+    animation-name: you;
+    animation-duration:2s ;
+    transform: scale(1.3);
+}
+@keyframes you{
+    from{
+        background-color: red;
+    }
+    to{
+        background-color: rgb(226, 145, 145);
+    }
+    
+}
+
